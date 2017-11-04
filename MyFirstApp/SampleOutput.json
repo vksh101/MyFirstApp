@@ -1,0 +1,776 @@
+﻿{
+  "ResumeParserData": {
+    "ResumeFileName": "sampleresume.docx",
+    "ResumeLanguage": "English",
+    "ParsingDate": "27/07/2017 5:17:01",
+    "FullName": "ANIL KUMAR",
+    "TitleName": "",
+    "FirstName": "ANIL",
+    "Middlename": "",
+    "LastName": "KUMAR",
+    "DateOfBirth": "15/03/1986",
+    "Gender": "Male",
+    "FatherName": "Sushil Kumar",
+    "MotherName": "Anita Jaswal",
+    "MaritalStatus": "Married",
+    "Nationality": "Indian",
+    "LanguageKnown": "English, Hindi, Urdu,",
+    "UniqueID": "8001015009087",
+    "LicenseNo": "B",
+    "PassportNo": "G9419605",
+    "PanNo": "",
+    "VisaStatus": "H-1B",
+    "Email": "anilkrk1452@gmail.com",
+    "AlternateEmail": "",
+    "Phone": "2025457522",
+    "FormattedPhone": "+91 20 2545 7522",
+    "Mobile": "9833463260",
+    "FormattedMobile": "+91 98334 63260",
+    "FaxNo": "+91 33 2511 9008",
+    "WebSites": {
+      "WebSite": [
+        {
+          "Type": "Website",
+          "Url": "https://rchilli.com/"
+        }
+      ]
+    },
+    "Address": "Sec-62",
+    "City": "Noida",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "ZipCode": "165842",
+    "FormattedAddress": "Sec-62, Noida, Uttar Pradesh, 165842, India",
+    "PermanentAddress": "Flat No. 502, Kismet Apt.111 Rambaug Colony",
+    "PermanentCity": "Pune",
+    "PermanentState": "Maharashtra",
+    "PermanentCountry": "India",
+    "PermanentZipCode": "411038",
+    "FormattedPermanentAddress": " ",
+    "Category": "Software/IT",
+    "SubCategory": "Testing Engineer",
+    "CurrentSalary": "50,000 Rs.",
+    "ExpectedSalary": "65,000 Rs.",
+    "Qualification": "Bachelor of Arts, Mumbai University, Mumbai, Maharashtra, India \n Associate of Applied Science, Mumbai University, Mumbai, Maharashtra, India \n Class XII, Delhi Public School, CBSE \n Class X, Delhi Public School, CBSE",
+    "SegregatedQualification": {
+      "EducationSplit": [
+        {
+          "Institution": {
+            "Name": "Mumbai University",
+            "Type": "University",
+            "City": "Mumbai",
+            "State": "Maharashtra",
+            "Country": ""
+          },
+          "Degree": "Bachelor Of Arts",
+          "StartDate": "",
+          "EndDate": "",
+          "Aggregate": null
+        },
+        {
+          "Institution": {
+            "Name": "Mumbai University",
+            "Type": "University",
+            "City": "Mumbai",
+            "State": "Maharashtra",
+            "Country": ""
+          },
+          "Degree": "Associate Of Applied Science",
+          "StartDate": "",
+          "EndDate": "",
+          "Aggregate": null
+        },
+        {
+          "Institution": {
+            "Name": "CBSE",
+            "Type": "University",
+            "City": "",
+            "State": "",
+            "Country": ""
+          },
+          "SubInstitution": {
+            "Name": "Delhi Public School",
+            "Type": "School",
+            "City": "",
+            "State": "",
+            "Country": ""
+          },
+          "Degree": "Class XII",
+          "StartDate": "",
+          "EndDate": "",
+          "Aggregate": null
+        },
+        {
+          "Institution": {
+            "Name": "CBSE",
+            "Type": "University",
+            "City": "",
+            "State": "",
+            "Country": ""
+          },
+          "SubInstitution": {
+            "Name": "Delhi Public School",
+            "Type": "School",
+            "City": "",
+            "State": "",
+            "Country": ""
+          },
+          "Degree": "Class X",
+          "StartDate": "",
+          "EndDate": "",
+          "Aggregate": null
+        }
+      ]
+    },
+    "Skills": "JavaScript, C++, VBScript \n Platforms : .NET, Windows NT/2000/XP, UNIX\nMYSQL, L IBM DB2 , Oracle, MS SQLServer, MS Access\nWindows ( 98 , XP, Vista, 7 ) , Windows Server ( 2003 , 2008 )  \n TESTING TOOLS \n HP ( ALM ) , HP ( UFT ) , Test Director, soapUI, Win Runner, QTP And LoadRunner, Team Track, Visual Studio Loadtest, MyPrism, HP Quality Center Device Anywhere, Rally, SeeTest, Wireshark,VM VirtualBox,Test Complete, Agile Load.",
+    "SkillKeywords": {
+      "SkillSet": [
+        {
+          "Skill": "Methodology",
+          "Type": "SoftSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "27/07/2017",
+          "ExperienceInMonths": "24"
+        },
+        {
+          "Skill": "Business Requirements",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "13"
+        },
+        {
+          "Skill": "Design And Development",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SummarySection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Regression Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "19"
+        },
+        {
+          "Skill": "Functional Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "40"
+        },
+        {
+          "Skill": "Defect Tracking",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/01/2013",
+          "ExperienceInMonths": "19"
+        },
+        {
+          "Skill": "QA Team Members",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/08/2013",
+          "ExperienceInMonths": "3"
+        },
+        {
+          "Skill": "Windows NT/2000",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Static Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2013",
+          "ExperienceInMonths": "5"
+        },
+        {
+          "Skill": "Test Scenarios",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2013",
+          "ExperienceInMonths": "5"
+        },
+        {
+          "Skill": "Sanity Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "40"
+        },
+        {
+          "Skill": "Windows Server",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Design Review",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2013",
+          "ExperienceInMonths": "5"
+        },
+        {
+          "Skill": "VM VirtualBox",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Visual Studio",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "TESTING TOOLS",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Test Scripts",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/08/2013",
+          "ExperienceInMonths": "27"
+        },
+        {
+          "Skill": "Team Members",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/08/2013",
+          "ExperienceInMonths": "27"
+        },
+        {
+          "Skill": "API Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "13"
+        },
+        {
+          "Skill": "GUI Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "13"
+        },
+        {
+          "Skill": "Web Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/01/2013",
+          "ExperienceInMonths": "24"
+        },
+        {
+          "Skill": "Test Cases",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/01/2013",
+          "ExperienceInMonths": "22"
+        },
+        {
+          "Skill": "Accounting",
+          "Type": "OperationalSkill",
+          "Alias": "Accounting,Buchhaltung,Rechnungswesen/controlling,Rechnungswesen,Bookkeeping,Accountancy,Boekhouden,",
+          "FormattedName": "Accounting",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/05/2015",
+          "ExperienceInMonths": "27"
+        },
+        {
+          "Skill": "Team Track",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "LoadRunner",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection,SkillSection",
+          "LastUsed": "31/08/2013",
+          "ExperienceInMonths": "27"
+        },
+        {
+          "Skill": "JavaScript",
+          "Type": "OperationalSkill",
+          "Alias": "Javascript,Ecmascript,",
+          "FormattedName": "Javascript",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Wireshark",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "MS Access",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "SQLServer",
+          "Type": "OperationalSkill",
+          "Alias": "Ms Sqlserver 6.5,Microsoft Sqlserver 6.5,Ms Sql Server 2000,Microsoft Sql Server,Ms Sql 2000,Sql Server 7.0,Sql Server,Sql Server Reporting Services,Microsoft Sql Server 2000,Sqlserver,Microsoft Sqlserver,Sqlserver 6.5,Sql Server 2000,Microsoft Sql Server 6.5,Ms Sql Server,Sql Server 6.5,Ms Sql Server 6.5,Microsoft Sqlserver 2000,Microsoft Sql 2000,Ms Sqlserver 2000,Ms Sqlserver,Sql Server Integration Services,",
+          "FormattedName": "Sqlserver",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Platforms",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "VBScript",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Billing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "13"
+        },
+        {
+          "Skill": "Testing",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection,SkillSection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "46"
+        },
+        {
+          "Skill": "Windows",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "IBM DB2",
+          "Type": "OperationalSkill",
+          "Alias": "Db2,Ibm Db2,Db/2,",
+          "FormattedName": "Ibm Db2",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Oracle",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Rally",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection,SkillSection",
+          "LastUsed": "31/01/2013",
+          "ExperienceInMonths": "22"
+        },
+        {
+          "Skill": "Vista",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "MYSQL",
+          "Type": "OperationalSkill",
+          "Alias": "Mysql,",
+          "FormattedName": "Mysql",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "IPad",
+          "Type": "OperationalSkill",
+          "Alias": "Ipad,",
+          "FormattedName": "Ipad",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/08/2013",
+          "ExperienceInMonths": "3"
+        },
+        {
+          "Skill": "UNIX",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": ".NET",
+          "Type": "OperationalSkill",
+          "Alias": "Microsoft .Net,.Net,",
+          "FormattedName": ".Net",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "QTP",
+          "Type": "OperationalSkill",
+          "Alias": "Qtp,",
+          "FormattedName": "Qtp",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "C++",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "SkillSection",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "QA",
+          "Type": "OperationalSkill",
+          "Alias": "Qc,Total Quality Management,Quality Assurance,Qa,Qm,Mqt,Quality,Tqm (Total Quality Management),Quality Management,Quality Control,Qs,Performs Quality Control Procedures,Quality Function Deployment,Quality Circle,Performs Quality Control Reviews,",
+          "FormattedName": "Qa",
+          "Evidence": "ExperienceSection,SummarySection",
+          "LastUsed": "31/12/2011",
+          "ExperienceInMonths": "70"
+        }
+      ]
+    },
+    "Experience": "Baylor Scott and White, Noida, India\tAugust 2015 - Present  \n Lead QA Analyst  \n Trained QA engineers, implemented standards and technologies, designed audit processes, define QA methodology and offered advice to team members.  \n AT and T, Bangalore, India\tMarch 2013 to May 2015 \n Senior QA Analyst  \n Monitored accounting usage event for AT and T, including sanity testing during code drop, extensive usage testing, and system and functional testing. Created and executed performance test scripts with LoadRunner. Analyzed scripts post-execution and retested defects once fixed. Created and executed performance test scripts with SeeTest. Update team on project status during daily meetings.  \n American Airlines, Bangalore, India\tAugust 2013 to December 2013 \n Performance Tester  \n Developed test scenarios and performed extensive web testing. Identified defects and retested once fixed. Played key role in static testing activities, including design review and requirements inspection, to identify ambiguity or inconsistency. Attended daily stand-up meetings to brief team on project progress.  \n Luxottica, Bangalore, India\tJune 2013 to August 2013 \n Performance Tester  \n Developed performance test scripts and performed extensive testing on iPad devices. Executed performance test scripts with Agile Load and LoadRunner. Trained and mentored QA team member.  \n Pressganey, Bangalore, India\tJune 2013 to August 2013 \n Senior QA Analyst  \n Developed test cases based on user stories. Performed extensive testing on real devices and on web. Identified, logged, and retested fixed defects in Rally. Updated project status at daily stand-up meetings. Mentored junior QA team members. \n MedAssets, Mumbai, India\tJuly 2011 to January 2013 \n Senior QA Analyst\t \n Developed test cases and scenarios based on user stories. Performed extensive web testing and regression testing in Test Complete. Identified, logged, and retested fixed defects in Rally. Charged with defect tracking, reporting and reproduction. Provided production support during deployment. Reported on project status at daily stand-up meetings.  \n AT and T, Mumbai, India\tDecember 2010 to December 2011 \n Senior QA Analyst \n Tested AT and T's billing system and third-party payment and decision applications. Analyzed business requirements. Performed extensive GUI testing and sanity testing during code drop. Performed weekly detailed regression testing as well as regular system and functional testing. Utilized soaPUI for web-service and API testing. Identified, logged, and retested fixed defects in Quality Center. Documented detailed test data for all testing phases. Evaluated defects discovered by user-acceptance testing team.",
+    "SegregatedExperience": {
+      "WorkHistory": [
+        {
+          "Employer": "Baylor Scott and White",
+          "JobProfile": {
+            "Title": "Lead QA Analyst",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Noida",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "August 2015 - till",
+          "StartDate": "1/8/2015",
+          "EndDate": "27/7/2017",
+          "JobDescription": "Baylor Scott and White , Noida , India\tAugust 2015 - Present  \n Lead QA Analyst  \n Trained QA engineers , implemented standards and technologies , designed audit processes , define QA methodology and offered advice to team members.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "AT and T",
+          "JobProfile": {
+            "Title": "Senior QA Analyst",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Bangalore",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "March 2013 to May 2015",
+          "StartDate": "1/3/2013",
+          "EndDate": "31/5/2015",
+          "JobDescription": "AT and T , Bangalore , India\tMarch 2013 to May 2015 \n Senior QA Analyst  \n Monitored accounting usage event for AT and T , including sanity testing during code drop , extensive usage testing , and system and functional testing. Created and executed performance test scripts with LoadRunner. Analyzed scripts post-execution and retested defects once fixed. Created and executed performance test scripts with SeeTest. Update team on project status during daily meetings.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "American Airlines",
+          "JobProfile": {
+            "Title": "Performance Tester",
+            "FormattedName": "Performance Tester",
+            "Alias": "Performance Tester",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Bangalore",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "August 2013 to December 2013",
+          "StartDate": "1/8/2013",
+          "EndDate": "31/12/2013",
+          "JobDescription": "American Airlines , Bangalore , India\tAugust 2013 to December 2013 \n Performance Tester  \n Developed test scenarios and performed extensive web testing. Identified defects and retested once fixed. Played key role in static testing activities , including design review and requirements inspection , to identify ambiguity or inconsistency. Attended daily stand-up meetings to brief team on project progress.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "Luxottica",
+          "JobProfile": {
+            "Title": "Performance Tester",
+            "FormattedName": "Performance Tester",
+            "Alias": "Performance Tester",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Bangalore",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "June 2013 to August 2013",
+          "StartDate": "1/6/2013",
+          "EndDate": "31/8/2013",
+          "JobDescription": "Luxottica , Bangalore , India\tJune 2013 to August 2013 \n Performance Tester  \n Developed performance test scripts and performed extensive testing on iPad devices. Executed performance test scripts with Agile Load and LoadRunner. Trained and mentored QA team member.  \n Pressganey , Bangalore , India\tJune 2013 to August 2013 \n Senior QA Analyst  \n Developed test cases based on user stories. Performed extensive testing on real devices and on web. Identified , logged , and retested fixed defects in Rally. Updated project status at daily stand-up meetings. Mentored junior QA team members.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "Pressganey",
+          "JobProfile": {
+            "Title": "Senior QA Analyst",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Bangalore",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "June 2013 to August 2013",
+          "StartDate": "1/6/2013",
+          "EndDate": "31/8/2013",
+          "JobDescription": "Luxottica , Bangalore , India\tJune 2013 to August 2013 \n Performance Tester  \n Developed performance test scripts and performed extensive testing on iPad devices. Executed performance test scripts with Agile Load and LoadRunner. Trained and mentored QA team member.  \n Pressganey , Bangalore , India\tJune 2013 to August 2013 \n Senior QA Analyst  \n Developed test cases based on user stories. Performed extensive testing on real devices and on web. Identified , logged , and retested fixed defects in Rally. Updated project status at daily stand-up meetings. Mentored junior QA team members.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "MedAssets",
+          "JobProfile": {
+            "Title": "Senior QA Analyst",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Mumbai",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "July 2011 to January 2013",
+          "StartDate": "1/7/2011",
+          "EndDate": "31/1/2013",
+          "JobDescription": "MedAssets , Mumbai , India\tJuly 2011 to January 2013 \n Senior QA Analyst\t \n Developed test cases and scenarios based on user stories. Performed extensive web testing and regression testing in Test Complete. Identified , logged , and retested fixed defects in Rally. Charged with defect tracking , reporting and reproduction. Provided production support during deployment. Reported on project status at daily stand-up meetings.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "AT and T",
+          "JobProfile": {
+            "Title": "Senior QA Analyst",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "Mumbai",
+            "EmployerState": "",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "December 2010 to December 2011",
+          "StartDate": "1/12/2010",
+          "EndDate": "31/12/2011",
+          "JobDescription": "AT and T , Mumbai , India\tDecember 2010 to December 2011 \n Senior QA Analyst \n Tested AT and Ts billing system and third-party payment and decision applications. Analyzed business requirements. Performed extensive GUI testing and sanity testing during code drop. Performed weekly detailed regression testing as well as regular system and functional testing. Utilized soaPUI for web-service and API testing. Identified , logged , and retested fixed defects in Quality Center. Documented detailed test data for all testing phases. Evaluated defects discovered by user-acceptance testing team.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        }
+      ]
+    },
+    "CurrentEmployer": "Baylor Scott and White",
+    "JobProfile": "Lead QA Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "88",
+      "TotalExperienceInYear": "7.4",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "2/2013 To 7/2013,  6/2015 To 7/2015",
+    "AverageStay": "22",
+    "LongestStay": "27",
+    "Summary": "SUMMARY \n  I am currently working as a Lead QA Analyst in Baylor Scott And White And am based out in Bangalore, India. I have expertise in design And development of end to end solutions for the US Mortgage domain.",
+    "ExecutiveSummary": "ANIL has an experience in the domain of Software/IT, particularly in Testing Engineer. The candidate has a total experience of 7.4 Years, gaps in employment from 2/2013 to 7/2013, 6/2015 to 7/2015 and is currently working as \"Lead QA Analyst\" at Baylor Scott and White since 2.0 Years.",
+    "ManagementSummary": "Currently ANIL holds a Low Management Level position, as \"Lead QA Analyst\" at Baylor Scott and White. from 1/8/2015 to 27/7/2017. The candidate has a total experience of 2.0 years in this company.",
+    "Coverletter": "Dear sir/madam,\n\nFinding myself deeply interested in being a professional Lead Analyst when I have been working in ICT industry for 7 more years, I am writing this letter to express my enthusiasm and competence in the position. As a professional developer with good communication skills, analyzing skill, innovative mind, adaptability and proficiency in English, I believe this position would be a great opportunity for me to contribute to your company development.\nDuring the time in ICT industry, I have learned and strengthen my professional knowledge in application development and programming. I also strengthen my soft-skills such as listening and collaborating well with the team members. Due to the fact that I have worked in various domains, adaptability is my strength when facing any changes or difficulties to meet client’s demands.\nI have enclosed my resume for your consideration. I am very enthusiastic about the opportunity to work for your company. I look forward to an interview with you.\n\nThank you for your time and consideration.\n\nSincerely",
+    "Certification": "Certified Scrum Master \n Certified Tester \n C/C++, Continuing Education Course, Texas State Technical College, Abilene, TX \n UNIX, Continuing Education Course, Texas State Technical College, Abilene, TX \n Relation Databases And SQL, Texas State Technical College, Abilene, TX \n Software Testing, Texas State Technical College, Abilene, TX",
+    "Publication": "Rapid And Accurate Measurement of the Frequency-Frequency Correlation Function Derek G. Osborne And Kevin J. Kubarych The Journal of Physical Chemistry A 2013 117 ( 29 ) , 5891-5898 \n Accelerated 2D-IR Using Compressed Sensing Josef A. Dunbar, Derek G. Osborne, Jessica M. Anna, And Kevin J. Kubarych The Journal of Physical Chemistry Letters 2013 4 ( 15 ) , 2489-2492 \n Site-Specific Measurements of Lipid Membrane Interfacial Water Dynamics with Multidimensional Infrared Spectroscopy Derek G. Osborne, Josef A. Dunbar, Jacob G. Lapping, Aaron M. White, And Kevin J. Kubarych The Journal of Physical Chemistry B 2013 117 ( 49 ) , 15407-15414 \n Ultrafast 2DIR probe of a host-guest inclusion complex : Structural And dynamical constraints of nanoconfinement Derek G. Osborne, John T. King, Josef A. Dunbar, Aaron M. White, Kevin J. Kubarych The Journal of Chemical Physics 2013 138 , 144501 \n Monitoring equilibrium reaction dynamics of a nearly barrierless molecular rotor using ultrafast vibrational echoes Ian A. Nilsen, Derek G. Osborne, Aaron M. White, Jessica M. Anna And Kevin J. Kubarych The Journal of Chemical Physics 2014 141 , 134313 \n Biomolecular hydration dynamics probed with 2D-IR spectroscopy : From dilute solution to a macromolecular crowd John T. King, Evan J. Arthur, Derek G. Osborne, Charles L. Brooks III, And Kevin J. Kubarych Chinese Chemical Letters 2015 26 ( 4 ) , 435-438",
+    "CurrentLocation": "Mumbai",
+    "PreferredLocation": "Mumbai",
+    "Availability": "Three Weeks",
+    "Hobbies": "Cookery, Indian Classical Music, Whistling, Solving puzzles",
+    "Objectives": "Fully utilize my interpersonal And academic skills to pursue a challenging And rewarding career.",
+    "Achievements": "Got Appreciation mail from Client for working hard in successful release of Mobile 360 website. \n Won Star Project of the month Award for Project Tracking Tool in HPE. Published the paper Public Auditing And Data Dynamics for Storage Security in Cloud Computing in International\t  conference MCCIA, Pune.",
+    "References": "Ram Prakash Sukla, Mining Minister \n Ph No : 09818694031 \n Vinod Sharma, Project Leader \n Ph No : 09827153271",
+    "CustomFields": "",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": {
+      "Recomendation": {
+        "CompanyName": "",
+        "PersonName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    },
+    "DetailResume": "Cover Letter\nDear sir/madam,\nFinding myself deeply interested in being a professional Lead Analyst when I have been working in ICT industry for 7 more years, I am writing this letter to express my enthusiasm and competence in the position. As a professional developer with good communication skills, analyzing skill, innovative mind, adaptability and proficiency in English, I believe this position would be a great opportunity for me to contribute to your company development.\nDuring the time in ICT industry, I have learned and strengthen my professional knowledge in application development and programming. I also strengthen my soft-skills such as listening and collaborating well with the team members. Due to the fact that I have worked in various domains, adaptability is my strength when facing any changes or difficulties to meet client's demands.\nI have enclosed my resume for your consideration. I am very enthusiastic about the opportunity to work for your company. I look forward to an interview with you.\nThank you for your time and consideration.\nSincerely\nAnil Kumar\nResume\nAnil Kumar\nanilkrk1452@gmail.com\nOBJECTIVE\nFully utilize my interpersonal and academic skills to pursue a challenging and rewarding career.\nSUMMARY\n I am currently working as a Lead QA Analyst in Baylor Scott and White and am based out in Bangalore, India. I have expertise in design and development of end-to-end solutions for the US Mortgage domain.\nPROFESSIONAL EXPERIENCE\nBaylor Scott and White, Noida, India\tAugust 2015 - Present \nLead QA Analyst \nTrained QA engineers, implemented standards and technologies, designed audit processes, define QA methodology and offered advice to team members. \nAT and T, Bangalore, India\tMarch 2013 to May 2015\nSenior QA Analyst \nMonitored accounting usage event for AT and T, including sanity testing during code drop, extensive usage testing, and system and functional testing. Created and executed performance test scripts with LoadRunner. Analyzed scripts post-execution and retested defects once fixed. Created and executed performance test scripts with SeeTest. Update team on project status during daily meetings. \nAmerican Airlines, Bangalore, India\tAugust 2013 to December 2013\nPerformance Tester \nDeveloped test scenarios and performed extensive web testing. Identified defects and retested once fixed. Played key role in static testing activities, including design review and requirements inspection, to identify ambiguity or inconsistency. Attended daily stand-up meetings to brief team on project progress. \nLuxottica, Bangalore, India\tJune 2013 to August 2013\nPerformance Tester \nDeveloped performance test scripts and performed extensive testing on iPad devices. Executed performance test scripts with Agile Load and LoadRunner. Trained and mentored QA team member. \nPressganey, Bangalore, India\tJune 2013 to August 2013\nSenior QA Analyst \nDeveloped test cases based on user stories. Performed extensive testing on real devices and on web. Identified, logged, and retested fixed defects in Rally. Updated project status at daily stand-up meetings. Mentored junior QA team members.\nMedAssets, Mumbai, India\tJuly 2011 to January 2013\nSenior QA Analyst\t\nDeveloped test cases and scenarios based on user stories. Performed extensive web testing and regression testing in Test Complete. Identified, logged, and retested fixed defects in Rally. Charged with defect tracking, reporting and reproduction. Provided production support during deployment. Reported on project status at daily stand-up meetings. \nAT and T, Mumbai, India\tDecember 2010 to December 2011\nSenior QA Analyst\nTested AT and T's billing system and third-party payment and decision applications. Analyzed business requirements. Performed extensive GUI testing and sanity testing during code drop. Performed weekly detailed regression testing as well as regular system and functional testing. Utilized soapUI for web-service and API testing. Identified, logged, and retested fixed defects in Quality Center. Documented detailed test data for all testing phases. Evaluated defects discovered by user-acceptance testing team. \nTECHNICAL PROFICIENCIES\nProgramming Languages : JavaScript, C++, VBScript\nPlatforms : .NET, Windows NT/2000/XP, UNIX\nDatabases : MYSQL, L IBM DB2 , Oracle, MS SQLServer, MS Access\nOperating Systems : Windows ( 98 , XP, Vista, 7 ) , Windows Server ( 2003 , 2008 ) \nTESTING TOOLS\nHP ( ALM ) , HP ( UFT ) , Test Director, soapUI, Win Runner, QTP and LoadRunner, Team Track, Visual Studio Loadtest, MyPrism, HP Quality Center Device Anywhere, Rally, SeeTest, Wireshark,VM VirtualBox,Test Complete, Agile Load.\nEDUCATION\nBachelor of Arts, Mumbai University, Mumbai, Maharashtra, India\nAssociate of Applied Science, Mumbai University, Mumbai, Maharashtra, India\nClass XII, Delhi Public School, CBSE\nClass X, Delhi Public School, CBSE\nCERTIFICATIONS\nCertified Scrum Master\nCertified Tester\nC/C++, Continuing Education Course, Texas State Technical College, Abilene, TX\nUNIX, Continuing Education Course, Texas State Technical College, Abilene, TX\nRelation Databases and SQL, Texas State Technical College, Abilene, TX\nSoftware Testing, Texas State Technical College, Abilene, TX\nACHEIVEMENTS \nGot Appreciation mail from Client for working hard in successful release of Mobile 360 website.\nWon Star Project of the month Award for Project Tracking Tool in HPE. Published the paper Public Auditing and Data Dynamics for Storage Security in Cloud Computing in International\t  conference MCCIA, Pune.\n \t\nPUBLICATION\nRapid and Accurate Measurement of the Frequency-Frequency Correlation Function Derek G. Osborne and Kevin J. Kubarych The Journal of Physical Chemistry A 2013 117 ( 29 ) , 5891-5898\nAccelerated 2D-IR Using Compressed Sensing Josef A. Dunbar, Derek G. Osborne, Jessica M. Anna, and Kevin J. Kubarych The Journal of Physical Chemistry Letters 2013 4 ( 15 ) , 2489-2492\nSite-Specific Measurements of Lipid Membrane Interfacial Water Dynamics with Multidimensional Infrared Spectroscopy Derek G. Osborne, Josef A. Dunbar, Jacob G. Lapping, Aaron M. White, and Kevin J. Kubarych The Journal of Physical Chemistry B 2013 117 ( 49 ) , 15407-15414\nUltrafast 2DIR probe of a host-guest inclusion complex : Structural and dynamical constraints of nanoconfinement Derek G. Osborne, John T. King, Josef A. Dunbar, Aaron M. White, Kevin J. Kubarych The Journal of Chemical Physics 2013 138 , 144501\nMonitoring equilibrium reaction dynamics of a nearly barrierless molecular rotor using ultrafast vibrational echoes Ian A. Nilsen, Derek G. Osborne, Aaron M. White, Jessica M. Anna and Kevin J. Kubarych The Journal of Chemical Physics 2014 141 , 134313\nBiomolecular hydration dynamics probed with 2D-IR spectroscopy : From dilute solution to a macromolecular crowd John T. King, Evan J. Arthur, Derek G. Osborne, Charles L. Brooks III, and Kevin J. Kubarych Chinese Chemical Letters 2015 26 ( 4 ) , 435-438\nPERSONAL INFORMATION\nName : ANIL KUMAR\nFather Name : Sushil Kumar\nMother Name : Anita Jaswal\nDate Of Birth : 15 March 1986\nGender : Male\nMarital Status : Married\nNationality : Indian\nLanguage : English,Hindi,Urdu\nUnique Id : 8001015009087\nDriving License : B\nPassport : G9419605\nPan No : ABCDE1234F\nVisa Status : H-1B\nPhone : 20 2545 7522\nMobile : 98334 63260\nFax No : 033-25119008\nAddress : Sec-62.Noida, Uttar Pradesh, India 165842\nPermanent Address : Flat No. 502 , Kismet Apt.111 Rambaug Colony, Pune Maharashtra 411038\nCurrent CTC : 50 ,000 Rs.\nExpected Salary : 65 ,000 Rs.\nWebsite : https://rchilli.com/\nAvailability : Three Weeks\nCurrent location : Mumbai\nPreferred location : Mumbai\nHobbies : Cookery, Indian Classical Music, Whistling, Solving puzzles\nREFERENCES\nRam Prakash Sukla, Mining Minister\nPh No : 09818694031\nVinod Sharma, Project Leader\nPh No : 09827153271",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 14.4.1.0\" /><title></title></head><body><div><p style=\"margin:0pt; text-align:center\"><span style=\"font-family:'Times New Roman'; font-size:14pt; font-weight:bold\">Cover Letter</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Dear sir/madam,</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Finding myself deeply interested in being a professional Lead Analyst when I have been working in ICT industry for 7 more years, I am writing this letter to express my enthusiasm and competence in the position. As a professional developer with good communication skills, analyzing skill, innovative mind, adaptability and proficiency in English, I believe this position would be a great opportunity for me to contribute to your company development.</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">During the time in ICT industry, I have learned and strengthen my professional knowledge in application development and programming. I also strengthen my soft-skills such as listening and collaborating well with the team members. Due to the fact that I have worked in various domains, adaptability is my strength when facing any changes or difficulties to meet client’s demands.</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">I have enclosed my resume for your consideration. I am very enthusiastic about the opportunity to work for your company. I look forward to an interview with you.</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Thank you for your time and consideration.</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Sincerely</span></p><p style=\"margin:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Anil Kumar</span></p><p style=\"font-size:14pt; line-height:115%; margin:0pt 0pt 10pt; text-align:center\"><br style=\"page-break-before:always; clear:both\" /><span style=\"font-family:'Times New Roman'; font-size:14pt; font-weight:bold\">Resume</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Anil Kumar</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">anilkrk1452@gmail.com</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">OBJECTIVE</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Fully utilize my interpersonal and academic skills to pursue a challenging and rewarding career.</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">SUMMARY</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> I am currently working as a Lead QA Analyst in Baylor Scott &amp; White and am based out in Bangalore, India. I have expertise in design and development of end-to-end solutions for the US Mortgage domain.</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">PROFESSIONAL EXPERIENCE</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Baylor Scott &amp; White, Noida, India</span><span style=\"width:12.21pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:180pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">August 2015 - Present </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Lead QA Analyst </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Trained QA engineers, implemented standards and technologies, designed audit processes, define QA methodology and offered advice to team members. </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">AT&amp;T, Bangalore, India</span><span style=\"width:29.99pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">March 2013 to May 2015</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Senior QA Analyst </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitored accounting usage event for AT&amp;T, including sanity testing during code drop, extensive usage testing, and system and functional testing.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Created and executed performance test scripts with </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">LoadRunner</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">. Analyzed scripts post-execution and retested defects once fixed. Created and executed performance test scripts with </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">SeeTest</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">. Update team on project status during daily meetings. </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">American Airlines, Bangalore, India</span><span style=\"width:5.56pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:180pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">August 2013 to December 2013</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Performance Tester </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed test scenarios and performed extensive web testing. Identified defects and retested once fixed. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Played key role in static testing activities, including design review and requirements inspection, to identify ambiguity or inconsistency.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Attended daily stand-up meetings to brief team on project progress.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Luxottica, Bangalore, India</span><span style=\"width:11.95pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">June 2013 to August 2013</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Performance Tester </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed performance test scripts and performed extensive testing on </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">iPad</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> devices. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Executed performance test scripts with Agile Load and </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">LoadRunner</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Trained and mentored QA team member. </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Pressganey</span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">, Bangalore, India</span><span style=\"width:3.07pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">June 2013 to August 2013</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Senior QA Analyst </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed test cases based on user stories. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Performed extensive testing on real devices and on web.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Identified, logged, and retested fixed defects in Rally. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Updated project status at daily stand-up meetings.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mentored junior QA team members.</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">MedAssets</span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">, Mumbai, India</span><span style=\"width:15.32pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">July 2011 to January 2013</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Senior QA Analyst</span><span style=\"width:19.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed test cases and scenarios based on user stories. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Performed extensive web testing and regression testing in Test Complete.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Identified, logged, and retested fixed defects in Rally. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Charged with defect tracking, reporting and reproduction.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided production support during deployment.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Reported on project status at daily stand-up meetings.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">AT&amp;T, Mumbai, India</span><span style=\"width:3.13pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">December 2010 to December 2011</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Senior QA Analyst</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Tested AT&amp;T’s billing system and third-party payment and decision applications. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Analyzed business requirements.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Performed extensive GUI testing and </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">sanity testing</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> during code drop. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Performed weekly detailed regression testing as well as regular system and functional testing.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Utilized </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">soapUI</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> for web-service and API testing.</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Identified, logged, and retested fixed defects in Quality Center. Documented detailed test data for all testing phases. Evaluated defects discovered by user-acceptance testing team. </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">TECHNICAL PROFICIENCIES</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Programming Languages</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">: JavaScript, C++, VBScript</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Platforms</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">: .NET, Windows NT/2000/XP, UNIX</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Databases</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">: MYSQL, L\\IBM DB2, Oracle, MS </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">SQLServer</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, MS Access</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Operating Systems</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">: Windows (98, XP, Vista, 7), Windows Server (2003, 2008)</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">TESTING TOOLS</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">HP (ALM), HP (UFT), Test Director, </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">soapUI</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, Win Runner, QTP and </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">LoadRunner</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, Team Track, Visual Studio </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Loadtest</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">MyPrism</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, HP Quality Center Device Anywhere, Rally, </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">SeeTest</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Wireshark,VM</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">VirtualBox,Test</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Complete, Agile Load.</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">EDUCATION</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Arts, Mumbai University, Mumbai, Maharashtra, India</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Associate of Applied Science, Mumbai University, Mumbai, Maharashtra, India</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Class XII, Delhi Public School, CBSE</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Class X, Delhi Public School, CBSE</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">CERTIFICATIONS</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Scrum Master</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Tester</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">C/C++, Continuing Education Course, Texas State Technical College, Abilene, TX</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">UNIX, Continuing Education Course, Texas State Technical College, Abilene, TX</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Relation Databases and SQL, Texas State Technical College, Abilene, TX</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Software Testing, Texas State Technical College, Abilene, TX</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">ACHEIVEMENTS </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Got Appreciation mail from Client for working hard in successful release of Mobile 360 website.</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Won “Star Project of the month” Award for Project Tracking Tool in HPE. Published the paper “Public Auditing and Data Dynamics for Storage Security in Cloud Computing” in International   conference MCCIA, Pune.</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">PUBLICATION</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">“Rapid and Accurate Measurement of the Frequency–Frequency Correlation Function” Derek G. Osborne and Kevin J. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Kubarych</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> The Journal of Physical Chemistry A 2013 117 (29), 5891-5898</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">“Accelerated 2D-IR Using Compressed Sensing” Josef A. Dunbar, Derek G. Osborne, Jessica M. Anna, and Kevin J. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Kubarych</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> The Journal of Physical Chemistry Letters 2013 4 (15), 2489-2492</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">“Site-Specific Measurements of Lipid Membrane Interfacial Water Dynamics with Multidimensional Infrared Spectroscopy” Derek G. Osborne, Josef A. Dunbar, Jacob G. Lapping*, Aaron M. White, and Kevin J. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Kubarych</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> The Journal of Physical Chemistry B 2013 117 (49), 15407-15414</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">“Ultrafast 2DIR probe of a host-guest inclusion complex: Structural and dynamical constraints of </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">nanoconfinement</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">” Derek G. Osborne, John T. King, Josef A. Dunbar, Aaron M. White, Kevin J. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Kubarych</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> The Journal of Chemical Physics 2013 138, 144501</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">“Monitoring equilibrium reaction dynamics of a nearly </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">barrierless</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> molecular rotor using ultrafast vibrational echoes” Ian A. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Nilsen</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">*, Derek G. Osborne, Aaron M. White, Jessica M. Anna and Kevin J. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Kubarych</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> The Journal of Chemical Physics 2014 141, 134313</span></li><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">“</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Biomolecular</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> hydration dynamics probed with 2D-IR spectroscopy: From dilute solution to a macromolecular crowd” John T. King, Evan J. Arthur, Derek G. Osborne, Charles L. Brooks III, and Kevin J. </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Kubarych</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Chinese Chemical Letters 2015 26 (4), 435-438</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">PERSONAL </span><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">INFORMATION</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Name</span><span style=\"width:7.52pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:36pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"width:33.36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">ANIL KUMAR</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Father Name</span><span style=\"width:8.59pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Sushil</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Kumar</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mother Name</span><span style=\"width:4.12pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Anita </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Jaswal</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Date </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Of</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Birth</span><span style=\"width:8.13pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">15 March 1986</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Gender</span><span style=\"width:0.3pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:36pt\"></span><span style=\"width:36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Male</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Marital Status</span><span style=\"width:2.81pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Married</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Nationality</span><span style=\"width:16.61pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Indian</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Language</span><span style=\"width:25.04pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">English</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">,Hindi,Urdu</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Unique Id</span><span style=\"width:23.74pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">8001015009087</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Driving License:</span><span style=\"width:29.3pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">B</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Passport</span><span style=\"width:29.67pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">G9419605</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Pan No</span><span style=\"width:1.13pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:36pt\"></span><span style=\"width:36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">ABCDE1234F</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Visa Status</span><span style=\"width:17.69pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">H-1B</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Phone</span><span style=\"width:4.9pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:36pt\"></span><span style=\"width:36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">20 2545 7522</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mobile</span><span style=\"width:2.15pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:36pt\"></span><span style=\"width:36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">98334 63260</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Fax No</span><span style=\"width:2.26pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:36pt\"></span><span style=\"width:36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">033-25119008</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Address</span><span style=\"width:32.81pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Sec-62.Noida, Uttar Pradesh, India 165842</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Permanent Address</span><span style=\"width:11.54pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Flat No. 502, Kismet Apt.111 </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Rambaug</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Colony, Pune Maharashtra 411038</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Current CTC</span><span style=\"width:11.29pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"width:36pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">50,000 </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Rs</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">.</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Expected Salary</span><span style=\"width:29.66pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">65,000 </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Rs</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">.</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Website</span><span style=\"width:32.6pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">https://rchilli.com/</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Availability</span><span style=\"width:15.52pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Three Weeks</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Current location</span><span style=\"width:26.69pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mumbai</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preferred location</span><span style=\"width:18.15pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:144pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mumbai</span></p><p style=\"margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Hobbies</span><span style=\"width:32.5pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"width:33.25pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:108pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Cookery, Indian Classical Music, Whistling, Solving puzzles</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\"> </span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">REFERENCES</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ram </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prakash</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Sukla</span><span style=\"font-family:'Times New Roman'; font-size:12pt\">, </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mining Minister</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 36pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ph</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> No</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">09818694031</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"font-family:serif; font-size:12pt; line-height:115%; margin:0pt 0pt 0pt 26.33pt; padding-left:9.67pt; text-indent:0pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Vinod</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Sharma, </span><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project Leader</span></li></ul><p style=\"font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 36pt\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ph</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> No</span><span style=\"width:6.64pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:72pt\"></span><span style=\"font-family:'Times New Roman'; font-size:12pt\">: 09827153271</span></p></div></body></html>&#xd;",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "sampleresume.pdf",
+      "TemplateOutputData": "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b2JqDQo8PC9UeXBlIC9Gb250RGVzY3JpcHRvci9Gb250TmFtZSAvRkFBQUJDK0dlbnRpdW1CYXNpYy9TdGVtViA4MC9EZXNjZW50IC0yODMvQXNjZW50IDg3NC9DYXBIZWlnaHQgNjE1L0ZsYWdzIDMyL0l0YWxpY0FuZ2xlIDAvRm9udEJCb3ggWy01MDEgLTM1NCA5NzcgMTA1OV0vRm9udEZpbGUyIDcgMCBSPj4NCmVuZG9iag0KMTYgMCBvYmoNCjw8L1R5cGUgL0ZvbnQvU3VidHlwZSAvVHJ1ZVR5cGUvQmFzZUZvbnQgL0ZBQUFCRytHZW50aXVtQmFzaWMsSXRhbGljL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcvRmlyc3RDaGFyIDMyL0xhc3RDaGFyIDE0OS9XaWR0aHMgWzIyMCAyNzEgNDI0IDQ2OSA0NjkgNjg5IDY2NiAyNTAgMzE2IDMxNiA0NDYgNDEwIDIyOSAzMzYgMjI5IDQ2OSA0NjkgNDY5IDQ2OSA0NjkgNDY5IDQ2OSA0NjkgNDY5IDQ2OSA0NjkgMjI5IDIyOSA0MzggNDM4IDQzOCA0MzMgODA3IDU5NSA1NDkgNTM2IDU5MiA0OTYgNDc4IDU4MyA2NTMgMjk3IDMwNSA1NzggNDc2IDgwNiA2NDggNjAwIDUyMiA2MDAgNTYxIDQ3NiA1NTAgNjUzIDY0OSA4NTAgNjE1IDU5NCA1MjIgMzA4IDQ2OSAzMDggNDkyIDQ2OSAzMTggNDU4IDUwNyA0MzcgNTIwIDQ2MSAzMTEgNDg3IDU1MSAyNzAgMjU4IDUwMCAyNzAgODAzIDU1MSA1MDIgNTI5IDUxNSAzOTUgMzg2IDM0NCA1MjkgNDkzIDcwNiA1MDIgNDkzIDQ0MSAzMzUgMjI5IDMzNSA0ODcgMCA0NjkgMCAyMjkgMjg5IDQ0OSA2NjggNDc3IDQ3NyAzNTcgMTAxMyA0NzYgMzA0IDc5NyAwIDUyMiAwIDAgMjI5IDIyOSA0MzYgNDM2IDI3NyBdL0ZvbnREZXNjcmlwdG9yIDE3IDAgUj4+DQplbmRvYmoNCjE3IDAgb2JqDQo8PC9UeXBlIC9Gb250RGVzY3JpcHRvci9Gb250TmFtZSAvRkFBQUJHK0dlbnRpdW1CYXNpYyxJdGFsaWMvU3RlbVYgODAvRGVzY2VudCAtMjgzL0FzY2VudCA4NzQvQ2FwSGVpZ2h0IDYxNS9GbGFncyAzMi9JdGFsaWNBbmdsZSAwL0ZvbnRCQm94IFstNTAxIC0zNTQgOTc3IDEwNTldL0ZvbnRGaWxlMiA3IDAgUj4+DQplbmRvYmoNCjE0IDAgb2JqDQo8PC9UeXBlIC9Gb250L1N1YnR5cGUgL1RydWVUeXBlL0Jhc2VGb250IC9GQUFBQkUrR2VudGl1bUJhc2ljLEJvbGQvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZy9GaXJzdENoYXIgMzIvTGFzdENoYXIgMTQ5L1dpZHRocyBbMjIwIDI3MSA0MjQgNDY5IDQ2OSA2ODkgNjY2IDI1MCAzMTYgMzE2IDQ0NiA0MTAgMjI5IDMzNiAyMjkgNDY5IDQ2OSA0NjkgNDY5IDQ2OSA0NjkgNDY5IDQ2OSA0NjkgNDY5IDQ2OSAyMjkgMjI5IDQzOCA0MzggNDM4IDQzMyA4MDcgNTk1IDU0OSA1MzYgNTkyIDQ5NiA0NzggNTgzIDY1MyAyOTcgMzA1IDU3OCA0NzYgODA2IDY0OCA2MDAgNTIyIDYwMCA1NjEgNDc2IDU1MCA2NTMgNjQ5IDg1MCA2MTUgNTk0IDUyMiAzMDggNDY5IDMwOCA0OTIgNDY5IDMxOCA0NTggNTA3IDQzNyA1MjAgNDYxIDMxMSA0ODcgNTUxIDI3MCAyNTggNTAwIDI3MCA4MDMgNTUxIDUwMiA1MjkgNTE1IDM5NSAzODYgMzQ0IDUyOSA0OTMgNzA2IDUwMiA0OTMgNDQxIDMzNSAyMjkgMzM1IDQ4NyAwIDQ2OSAwIDIyOSAyODkgNDQ5IDY2OCA0NzcgNDc3IDM1NyAxMDEzIDQ3NiAzMDQgNzk3IDAgNTIyIDAgMCAyMjkgMjI5IDQzNiA0MzYgMjc3IF0vRm9udERlc2NyaXB0b3IgMTUgMCBSPj4NCmVuZG9iag0KMTUgMCBvYmoNCjw8L1R5cGUgL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lIC9GQUFBQkUrR2VudGl1bUJhc2ljLEJvbGQvU3RlbVYgODAvRGVzY2VudCAtMjgzL0FzY2VudCA4NzQvQ2FwSGVpZ2h0IDYxNS9GbGFncyAzMi9JdGFsaWNBbmdsZSAwL0ZvbnRCQm94IFstNTAxIC0zNTQgOTc3IDEwNTldL0ZvbnRGaWxlMiA3IDAgUj4+DQplbmRvYmoNCjYgMCBvYmoNCjw8L1R5cGUgL1hPYmplY3QvU3VidHlwZSAvSW1hZ2UvV2lkdGggMTg0L0hlaWdodCAxNTEvQ29sb3JTcGFjZSAvRGV2aWNlUkdCL0JpdHNQZXJDb21wb25lbnQgOC9MZW5ndGggMjMgMCBSL0ZpbHRlciAvRENURGVjb2RlPj5zdHJlYW0NCv/Y/+EAGEV4aWYAAElJKgAIAAAAAAAAAAAAAAD/7AARRHVja3kAAQAEAAAAZAAA/+EDcWh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOkNGMDRFN0Q0MTIyMDY4MTE4MDgzQzY1N0FENThGMTQ3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjI0NkZEQjI0MTI0OTExRTQ5M0E4RDU4MzRBNkYzNEZCIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjI0NkZEQjIzMTI0OTExRTQ5M0E4RDU4MzRBNkYzNEZCIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rv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MDAgbg0KMDAwMDAwMDAxMCAwMDAwMCBuDQowMDAwMDAwMjQ0IDAwMDAwIG4NCjAwMDAwMDgxNTIgMDAwMDAgbg0KMDAwMDAyMjA2NyAwMDAwMCBuDQowMDAwMDA0MDMyIDAwMDAwIG4NCjAwMDAwMDQxNzMgMDAwMDAgbg0KMDAwMDAwNDg0MiAwMDAwMCBuDQowMDAwMDA1MDMzIDAwMDAwIG4NCjAwMDAwMDU2NjUgMDAwMDAgbg0KMDAwMDAwNjI5NSAwMDAwMCBuDQowMDAwMDA3MzIxIDAwMDAwIG4NCjAwMDAwMDc5NTYgMDAwMDAgbg0KMDAwMDAwNjQ4NiAwMDAwMCBuDQowMDAwMDA3MTIzIDAwMDAwIG4NCjAwMDAwMDE3ODQgMDAwMDAgbg0KMDAwMDAwMTgwOSAwMDAwMCBuDQowMDAwMDAyMDExIDAwMDAwIG4NCjAwMDAwMDM3MTEgMDAwMDAgbg0KMDAwMDAwNTY0MSAwMDAwMCBuDQowMDAwMDIyMDQxIDAwMDAwIG4NCjAwMDAwNDIxODggMDAwMDAgbg0KMDAwMDA0MjE2MiAwMDAwMCBuDQp0cmFpbGVyDQo8PC9TaXplIDI2L0luZm8gMSAwIFIvUm9vdCAyIDAgUj4+DQpzdGFydHhyZWYNCjQyMjE0DQolJUVPRg0K"
+    },
+    "Platform": ""
+  }
+}
